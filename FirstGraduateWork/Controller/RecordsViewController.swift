@@ -1,5 +1,5 @@
 //
-//  RecordsTableViewController.swift
+//  RecordsViewController.swift
 //  FirstGraduateWork
 //
 //  Created by Кирилл Демьянцев on 13.07.2023.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-final class RecordsTableViewController: UIViewController {
+final class RecordsViewController: UIViewController {
     
     //MARK: - Константы
     
@@ -98,7 +98,7 @@ final class RecordsTableViewController: UIViewController {
         ])
     }
 }
-extension RecordsTableViewController: UITableViewDataSource, UITableViewDelegate {
+extension RecordsViewController: UITableViewDataSource, UITableViewDelegate {
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         recordsArray.count

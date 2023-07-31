@@ -16,7 +16,7 @@ final class MainViewController: UIViewController {
     }
 
     let setupController = SetupViewController()
-    let recordViewController = RecordsTableViewController()
+    let recordViewController = RecordsViewController()
     
     let labelGame: UILabel = {
         var label = UILabel()

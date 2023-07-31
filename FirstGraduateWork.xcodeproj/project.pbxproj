@@ -28,7 +28,7 @@
 		EBADF9E62A73CAD400C00378 /* Aircraft.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBADF9E52A73CAD400C00378 /* Aircraft.swift */; };
 		EBADF9EB2A73D6CB00C00378 /* Cloud.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBADF9EA2A73D6CA00C00378 /* Cloud.swift */; };
 		EBBCE7C02A5B021C0081571B /* Exstension + UserDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBBCE7BF2A5B021C0081571B /* Exstension + UserDefaults.swift */; };
-		EBEECD5D2A602F0000B58B20 /* RecordsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBEECD5C2A602F0000B58B20 /* RecordsTableViewController.swift */; };
+		EBEECD5D2A602F0000B58B20 /* RecordsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBEECD5C2A602F0000B58B20 /* RecordsViewController.swift */; };
 		EBEECD612A6045B400B58B20 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBEECD602A6045B400B58B20 /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
@@ -53,7 +53,7 @@
 		EBADF9E52A73CAD400C00378 /* Aircraft.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aircraft.swift; sourceTree = "<group>"; };
 		EBADF9EA2A73D6CA00C00378 /* Cloud.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cloud.swift; sourceTree = "<group>"; };
 		EBBCE7BF2A5B021C0081571B /* Exstension + UserDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Exstension + UserDefaults.swift"; sourceTree = "<group>"; };
-		EBEECD5C2A602F0000B58B20 /* RecordsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordsTableViewController.swift; sourceTree = "<group>"; };
+		EBEECD5C2A602F0000B58B20 /* RecordsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordsViewController.swift; sourceTree = "<group>"; };
 		EBEECD602A6045B400B58B20 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -84,7 +84,7 @@
 			children = (
 				EB13336B2A543AB70072F97A /* MainViewController.swift */,
 				EB99DF322A3AE9F800D34147 /* GameViewController.swift */,
-				EBEECD5C2A602F0000B58B20 /* RecordsTableViewController.swift */,
+				EBEECD5C2A602F0000B58B20 /* RecordsViewController.swift */,
 				EB13336F2A5441450072F97A /* SetupViewController.swift */,
 			);
 			path = Controller;
@@ -269,7 +269,7 @@
 				EB7BAC432A779E7B00224EDB /* Keys.swift in Sources */,
 				EB5AC90E2A61ABFD006438AE /* Extension + ViewController.swift in Sources */,
 				EBADF9E62A73CAD400C00378 /* Aircraft.swift in Sources */,
-				EBEECD5D2A602F0000B58B20 /* RecordsTableViewController.swift in Sources */,
+				EBEECD5D2A602F0000B58B20 /* RecordsViewController.swift in Sources */,
 				EB13336C2A543AB70072F97A /* MainViewController.swift in Sources */,
 				EB99DF332A3AE9F800D34147 /* GameViewController.swift in Sources */,
 				EB99DF2F2A3AE9F800D34147 /* AppDelegate.swift in Sources */,
